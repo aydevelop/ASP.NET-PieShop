@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using PieShop.Models;
+using PieShop.ViewModels;
 
 namespace PieShop.Constollers
 {
@@ -20,7 +21,10 @@ namespace PieShop.Constollers
 
         public ViewResult List()
         {
-            return View(_pieRepository.AllPies);
+            PiesListViewModel piesListViewModel = new PiesListViewModel();
+            piesListViewModel.Pies = _pieRepository.AllPies;
+            piesListViewModel.CurrentCategory = "Chesse cakes";
+            return View(piesListViewModel);
         }
     }
 }

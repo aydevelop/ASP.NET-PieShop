@@ -18,3 +18,14 @@ C:\Users\A\source\repos\PieShop\PieShop\obj\Debug\netcoreapp3.1\staticwebassets\
 C:\Users\A\source\repos\PieShop\PieShop\obj\Debug\netcoreapp3.1\PieShop.dll
 C:\Users\A\source\repos\PieShop\PieShop\obj\Debug\netcoreapp3.1\PieShop.pdb
 C:\Users\A\source\repos\PieShop\PieShop\obj\Debug\netcoreapp3.1\PieShop.genruntimeconfig.cache
+C:\Users\A\source\repos\PieShop\PieShop\bin\Debug\netcoreapp3.1\PieShop.Views.dll
+C:\Users\A\source\repos\PieShop\PieShop\bin\Debug\netcoreapp3.1\PieShop.Views.pdb
+C:\Users\A\source\repos\PieShop\PieShop\obj\Debug\netcoreapp3.1\PieShop.RazorAssemblyInfo.cache
+C:\Users\A\source\repos\PieShop\PieShop\obj\Debug\netcoreapp3.1\PieShop.RazorAssemblyInfo.cs
+C:\Users\A\source\repos\PieShop\PieShop\obj\Debug\netcoreapp3.1\PieShop.TagHelpers.input.cache
+C:\Users\A\source\repos\PieShop\PieShop\obj\Debug\netcoreapp3.1\PieShop.TagHelpers.output.cache
+C:\Users\A\source\repos\PieShop\PieShop\obj\Debug\netcoreapp3.1\PieShop.RazorCoreGenerate.cache
+C:\Users\A\source\repos\PieShop\PieShop\obj\Debug\netcoreapp3.1\Razor\Views\Pie\List.cshtml.g.cs
+C:\Users\A\source\repos\PieShop\PieShop\obj\Debug\netcoreapp3.1\PieShop.RazorTargetAssemblyInfo.cs
+C:\Users\A\source\repos\PieShop\PieShop\obj\Debug\netcoreapp3.1\PieShop.Views.pdb
+C:\Users\A\source\repos\PieShop\PieShop\obj\Debug\netcoreapp3.1\PieShop.csproj.CopyComplete
