@@ -29,3 +29,6 @@ C:\Users\A\source\repos\PieShop\PieShop\obj\Debug\netcoreapp3.1\Razor\Views\Pie\
 C:\Users\A\source\repos\PieShop\PieShop\obj\Debug\netcoreapp3.1\PieShop.RazorTargetAssemblyInfo.cs
 C:\Users\A\source\repos\PieShop\PieShop\obj\Debug\netcoreapp3.1\PieShop.Views.pdb
 C:\Users\A\source\repos\PieShop\PieShop\obj\Debug\netcoreapp3.1\PieShop.csproj.CopyComplete
+C:\Users\A\source\repos\PieShop\PieShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\A\source\repos\PieShop\PieShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\A\source\repos\PieShop\PieShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
