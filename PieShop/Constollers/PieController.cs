@@ -23,7 +23,7 @@ namespace PieShop.Constollers
         {
             PiesListViewModel piesListViewModel = new PiesListViewModel();
             piesListViewModel.Pies = _pieRepository.AllPies;
-            piesListViewModel.CurrentCategory = "Chesse cakes!!!";
+            piesListViewModel.CurrentCategory = "Chesse cakes!!!!!#";
             return View(piesListViewModel);
         }
     }
