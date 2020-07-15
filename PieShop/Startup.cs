@@ -30,8 +30,8 @@ namespace PieShop
                 options.UseSqlServer(Conf.GetConnectionString("DefaultConnection"))
             );
 
-            services.AddScoped<IPieRepository, MockPieRepository>();
-            services.AddScoped<ICategoryRepository, MockCategoryRepository>();
+            services.AddScoped<IPieRepository, PieRepository>();
+            services.AddScoped<ICategoryRepository, CategoryRepository>();
             services.AddControllersWithViews();
         }
 
