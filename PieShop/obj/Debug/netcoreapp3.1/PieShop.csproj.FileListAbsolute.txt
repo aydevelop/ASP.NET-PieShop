@@ -66,4 +66,7 @@ C:\Users\A\source\repos\PieShop\PieShop\bin\Debug\netcoreapp3.1\runtimes\unix\li
 C:\Users\A\source\repos\PieShop\PieShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\A\source\repos\PieShop\PieShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\A\source\repos\PieShop\PieShop\obj\Debug\netcoreapp3.1\Razor\Views\Pie\Details.cshtml.g.cs
-C:\Users\A\source\repos\PieShop\PieShop\obj\Debug\netcoreapp3.1\PieShop.csprojAssemblyReference.cache
+C:\Users\A\source\repos\PieShop\PieShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\A\source\repos\PieShop\PieShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Carousel.cshtml.g.cs
+C:\Users\A\source\repos\PieShop\PieShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_PieCard.cshtml.g.cs
+C:\Users\A\source\repos\PieShop\PieShop\obj\Debug\netcoreapp3.1\Razor\Views\ShoppingCart\Index.cshtml.g.cs
