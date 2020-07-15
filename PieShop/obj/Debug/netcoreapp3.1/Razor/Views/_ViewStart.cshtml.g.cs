@@ -19,8 +19,15 @@ using PieShop.ViewModels;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 2 "C:\Users\A\source\repos\PieShop\PieShop\Views\_ViewImports.cshtml"
+using PieShop.Models;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"e7be07cf1f8469059dfddafeba4be7da88a244ea", @"/Views/_ViewStart.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"13796bfe5ddaa645d5817ea4889becffb24fd469", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"dfcaa468778bd23a202306c0238e786d7fab9a93", @"/Views/_ViewImports.cshtml")]
     public class Views__ViewStart : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998
