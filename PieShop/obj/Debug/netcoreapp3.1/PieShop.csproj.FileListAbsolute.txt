@@ -73,3 +73,4 @@ C:\Users\A\source\repos\PieShop\PieShop\obj\Debug\netcoreapp3.1\Razor\Views\Shop
 C:\Users\A\source\repos\PieShop\PieShop\obj\Debug\netcoreapp3.1\PieShop.csprojAssemblyReference.cache
 C:\Users\A\source\repos\PieShop\PieShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\ShoppingCartSummary\Default.cshtml.g.cs
 C:\Users\A\source\repos\PieShop\PieShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CategoryMenu\Default.cshtml.g.cs
+C:\Users\A\source\repos\PieShop\PieShop\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Index.cshtml.g.cs
